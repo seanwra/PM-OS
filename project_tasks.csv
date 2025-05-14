@@ -1,0 +1,16 @@
+task_id,title,description,status,priority,assignee,due_date,estimated_hours,actual_hours
+1,"Setup development environment","Install required software and configure development workspace","Completed","High","John Smith","2025-05-01",4,3.5
+2,"Design database schema","Create entity relationship diagrams and define data models","In Progress","High","Emily Johnson","2025-05-20",8,6
+3,"Implement user authentication","Create login/signup functionality with JWT authentication","Not Started","High","Michael Brown","2025-05-30",12,0
+4,"Create dashboard UI","Design and implement the main dashboard interface","Not Started","Medium","Sarah Davis","2025-06-05",16,0
+5,"Develop task management module","Implement CRUD operations for tasks","Not Started","Medium","David Wilson","2025-06-10",20,0
+6,"Integrate notification system","Set up email and in-app notification functionality","Not Started","Low","Lisa Thompson","2025-06-15",10,0
+7,"Write unit tests","Create comprehensive test suite for all modules","Not Started","Medium","Robert Miller","2025-06-20",24,0
+8,"Conduct security audit","Review code for vulnerabilities and implement fixes","Not Started","High","Jennifer White","2025-06-25",16,0
+9,"Optimize database queries","Improve performance of database operations","Not Started","Medium","Thomas Anderson","2025-06-30",8,0
+10,"Prepare deployment scripts","Create automation scripts for deployment","Not Started","Low","Jessica Martin","2025-07-05",6,0
+11,"User acceptance testing","Coordinate UAT with stakeholders","Not Started","High","Daniel Clark","2025-07-10",16,0
+12,"Documentation","Create user and developer documentation","Not Started","Medium","Amanda Lewis","2025-07-15",20,0
+13,"Training materials","Develop training resources for end users","Not Started","Low","Christopher Walker","2025-07-20",12,0
+14,"Bug fixing","Address issues identified during testing","Not Started","High","Michelle Turner","2025-07-25",24,0
+15,"Final review","Conduct final review before launch","Not Started","High","Richard Harris","2025-07-30",8,0
