@@ -1,5 +1,5 @@
 Task ID,Task Name,Description,Start Date,End Date,Duration (Days),Predecessors,Resources,Completion %,Phase,Building Area,Priority,Notes
-1,Project Initiation,Initial project setup and mobilization,2025-06-01,2025-06-15,15,,Project Manager,100,Initiation,All,High,Includes permit acquisition and site preparation
+1,Project Initiation,Initial project setup and mobilization,2025-05-01,2025-05-15,15,,Project Manager,100,Initiation,All,High,Includes permit acquisition and site preparation
 2,Site Preparation,Clear site and establish temporary facilities,2025-07-16,2025-07-30,15,1,Site Crew,0,Site Work,All,High,Set up construction trailers and utilities
 3,Excavation,Excavate foundation and basement areas,2025-08-01,2025-08-15,15,2,Excavation Team,0,Foundation,Basement,High,Includes soil removal and shoring
 4,Foundation - Basement Area,Pour concrete foundation for basement level,2025-08-16,2025-09-05,21,3,Foundation Crew,0,Foundation,Basement,High,Requires concrete curing time
