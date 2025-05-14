@@ -1,0 +1,16 @@
+resource_id,name,role,department,skills,availability,hourly_rate,allocation_percentage
+1,"John Smith","Senior Developer","Engineering","Java, Spring, React",40,75,80
+2,"Emily Johnson","Database Architect","Engineering","SQL, MongoDB, Data Modeling",35,85,90
+3,"Michael Brown","Full Stack Developer","Engineering","JavaScript, Node.js, Express",40,65,100
+4,"Sarah Davis","UI/UX Designer","Design","Figma, Adobe XD, CSS",30,70,75
+5,"David Wilson","Backend Developer","Engineering","Python, Django, REST APIs",40,70,85
+6,"Lisa Thompson","DevOps Engineer","Operations","Docker, Kubernetes, Jenkins",35,80,60
+7,"Robert Miller","QA Engineer","Quality Assurance","Selenium, Jest, Test Planning",40,60,100
+8,"Jennifer White","Security Specialist","Security","Penetration Testing, Security Audits",25,90,50
+9,"Thomas Anderson","Database Administrator","Engineering","Oracle, PostgreSQL, Performance Tuning",40,85,80
+10,"Jessica Martin","DevOps Engineer","Operations","Ansible, Terraform, AWS",35,75,70
+11,"Daniel Clark","Product Manager","Product","Agile, JIRA, User Stories",40,95,90
+12,"Amanda Lewis","Technical Writer","Documentation","Markdown, API Documentation",30,65,60
+13,"Christopher Walker","Training Specialist","Learning & Development","LMS, Content Creation",25,60,50
+14,"Michelle Turner","QA Engineer","Quality Assurance","Manual Testing, Automation",40,65,100
+15,"Richard Harris","Project Manager","Project Management","Agile, Scrum, Risk Management",40,95,100
